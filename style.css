@@ -1,0 +1,77 @@
+#welcome
+{
+    background-color:#D3D3D3 ;
+}
+.rocket-top
+{
+    width: 15%;
+
+}
+
+.welcome-text
+{
+    font-family: "Playwrite NG Modern","Sans";
+}
+
+.img-top
+{
+    width: 50%;
+
+}
+
+.pro
+{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.profile
+{
+    width: 25%;
+}
+
+.intro-text
+{
+   
+    font-weight: 500;
+}
+
+.skills-image
+{
+    width: 100%;
+}
+
+.email-image
+{
+    width: 25%;
+}
+
+.btn
+{
+    width: 100%;
+}
+
+#finale
+{
+    background-color:#D3D3D3;
+   
+}
+
+#finale
+{
+    font-family: "Playwrite NG Modern","Sans";
+}
+
+@media(max-width:992px)
+{
+    .skills-image
+    {
+        width: 25%;
+    }
+
+    .btn{
+        width: 50%;
+        display: block;
+        margin: auto;
+    }
+}
